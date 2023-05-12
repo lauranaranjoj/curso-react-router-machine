@@ -1,5 +1,5 @@
 {
-  "name": "curso-react-router-dom",
+  "name": "curso-react-router-machine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "https://lauranaranjoj.github.io/curso-react-router-dom"
+  "homepage": "https://lauranaranjoj.github.io/curso-react-router-machine"
 }
