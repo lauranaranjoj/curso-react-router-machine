@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/curso-react-router-dom/static/css/main.21e3d77b.chunk.css",
-    "main.js": "/curso-react-router-dom/static/js/main.cc109009.chunk.js",
-    "main.js.map": "/curso-react-router-dom/static/js/main.cc109009.chunk.js.map",
-    "runtime-main.js": "/curso-react-router-dom/static/js/runtime-main.d319ad9a.js",
-    "runtime-main.js.map": "/curso-react-router-dom/static/js/runtime-main.d319ad9a.js.map",
-    "static/js/2.d9322a1d.chunk.js": "/curso-react-router-dom/static/js/2.d9322a1d.chunk.js",
-    "static/js/2.d9322a1d.chunk.js.map": "/curso-react-router-dom/static/js/2.d9322a1d.chunk.js.map",
-    "index.html": "/curso-react-router-dom/index.html",
-    "static/css/main.21e3d77b.chunk.css.map": "/curso-react-router-dom/static/css/main.21e3d77b.chunk.css.map",
-    "static/js/2.d9322a1d.chunk.js.LICENSE.txt": "/curso-react-router-dom/static/js/2.d9322a1d.chunk.js.LICENSE.txt",
-    "static/media/check.fa4fb594.svg": "/curso-react-router-dom/static/media/check.fa4fb594.svg",
-    "static/media/delete.331149da.svg": "/curso-react-router-dom/static/media/delete.331149da.svg",
-    "static/media/edit.900a8fd2.svg": "/curso-react-router-dom/static/media/edit.900a8fd2.svg",
-    "static/media/notfound.3268859f.png": "/curso-react-router-dom/static/media/notfound.3268859f.png"
+    "main.css": "/curso-react-router-machine/static/css/main.21e3d77b.chunk.css",
+    "main.js": "/curso-react-router-machine/static/js/main.dddf2db4.chunk.js",
+    "main.js.map": "/curso-react-router-machine/static/js/main.dddf2db4.chunk.js.map",
+    "runtime-main.js": "/curso-react-router-machine/static/js/runtime-main.2cfda41d.js",
+    "runtime-main.js.map": "/curso-react-router-machine/static/js/runtime-main.2cfda41d.js.map",
+    "static/js/2.6e1c9c73.chunk.js": "/curso-react-router-machine/static/js/2.6e1c9c73.chunk.js",
+    "static/js/2.6e1c9c73.chunk.js.map": "/curso-react-router-machine/static/js/2.6e1c9c73.chunk.js.map",
+    "index.html": "/curso-react-router-machine/index.html",
+    "static/css/main.21e3d77b.chunk.css.map": "/curso-react-router-machine/static/css/main.21e3d77b.chunk.css.map",
+    "static/js/2.6e1c9c73.chunk.js.LICENSE.txt": "/curso-react-router-machine/static/js/2.6e1c9c73.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/curso-react-router-machine/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/curso-react-router-machine/static/media/delete.331149da.svg",
+    "static/media/edit.900a8fd2.svg": "/curso-react-router-machine/static/media/edit.900a8fd2.svg",
+    "static/media/notfound.3268859f.png": "/curso-react-router-machine/static/media/notfound.3268859f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d319ad9a.js",
-    "static/js/2.d9322a1d.chunk.js",
+    "static/js/runtime-main.2cfda41d.js",
+    "static/js/2.6e1c9c73.chunk.js",
     "static/css/main.21e3d77b.chunk.css",
-    "static/js/main.cc109009.chunk.js"
+    "static/js/main.dddf2db4.chunk.js"
   ]
 }
